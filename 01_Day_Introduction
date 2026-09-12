@@ -1,0 +1,28 @@
+# introduction
+
+print("hello world!")   # print hello world
+
+print(2+3)              # addition (+)
+print(8-4)              # subtraction (-)
+print(4*5)              # multiplication (*)
+print(3+2)              # addition (+)
+print(3-2)              # subtraction (-)
+print(5*4)              # multiplication (*)
+print(3/2)              # division (/)
+print(3**2)             # exponential (**)
+print(3%2)              # modulus (%)
+print(3//2)             # floor division (//)
+
+
+# Checking data types
+
+print(type(10))                    # int
+print(type(3.14))                  # float
+print(type(1+3j))                  # complex
+
+sapna = "Sapna"
+print(type(sapna))                 # string
+
+print(type([1, 2, 3]))             # list
+print(type({'name': 'sapna'}))     # dictionary
+print(type((9, 8, 3.14, 2.7)))     # tuple
